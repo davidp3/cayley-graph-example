@@ -1,0 +1,31 @@
+#!/usr/bin/env python
+
+import shlex
+
+f1 = open('madeup-raw.nt', 'r')
+f2 = open('madeup.nt', 'w')
+for line in f1:
+    nquad = shlex.split(line)
+    if len(nquad) == 0:
+        continue
+    assert len(nquad) == 3 or len(nquad) == 4
+    for idx in range(len(nquad)):
+        if not(nquad[idx].startswith('\"')):
+            nquad[idx] = '\"' + nquad[idx] + '\"'
+        if idx != 0:
+            f2.write("\t")
+        f2.write(nquad[idx])
+    f2.write(' .\n')
+
+    # Make coworker and friend reflexive.
+    if nquad[1] == '\"coworker\"' or nquad[1] == '\"friend\"':
+        for idx in range(len(nquad)-1,-1,-1):
+            if not(nquad[idx].startswith('\"')):
+                nquad[idx] = '\"' + nquad[idx] + '\"'
+            if idx != len(nquad)-1:
+                f2.write("\t")
+            f2.write(nquad[idx])
+        f2.write(' .\n')
+
+f1.close()
+f2.close()

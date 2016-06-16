@@ -1,0 +1,972 @@
+<http://www.w3.org/DesignIssues/Overview.html> <http://purl.org/dc/elements/1.1/title> "Design Issues for the World Wide Web" .
+<http://www.w3.org/DesignIssues/Overview.html> <http://xmlns.com/foaf/0.1/maker> <http://www.w3.org/People/Berners-Lee/card#i> .
+<http://www.w3.org/People/Berners-Lee/card.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/PersonalProfileDocument> .
+<http://www.w3.org/People/Berners-Lee/card.rdf> <http://creativecommons.org/ns#license> <http://creativecommons.org/licenses/by-nc/3.0/> .
+<http://www.w3.org/People/Berners-Lee/card.rdf> <http://purl.org/dc/elements/1.1/title> "Tim Berners-Lee's FOAF file" .
+<http://www.w3.org/People/Berners-Lee/card.rdf> <http://xmlns.com/foaf/0.1/maker> <http://www.w3.org/People/Berners-Lee/card#i> .
+<http://www.w3.org/People/Berners-Lee/card.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <http://www.w3.org/People/Berners-Lee/card#i> .
+<http://www.w3.org/People/Berners-Lee/card.rdf#findMyLoc> <http://my-profile.eu/ns/webapp#description> "Share your location with your friends." .
+<http://www.w3.org/People/Berners-Lee/card.rdf#findMyLoc> <http://my-profile.eu/ns/webapp#endpoint> <https://timbl.data.fm/test2/locator/location> .
+<http://www.w3.org/People/Berners-Lee/card.rdf#findMyLoc> <http://my-profile.eu/ns/webapp#name> "FindMyLoc" .
+<http://www.w3.org/People/Berners-Lee/card.rdf#findMyLoc> <http://my-profile.eu/ns/webapp#service> <https://findmyloc.rww.io/> .
+_:genid1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/auth/cert#RSAPublicKey> .
+_:genid1 <http://www.w3.org/ns/auth/cert#exponent> "65537"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid1 <http://www.w3.org/ns/auth/cert#modulus> "00bc36c8cf9989afa5af67cbbf0539b6ce7725555b9ed706ed6378eab839a1ced9e2a9547ea38be81fcb6d485cf21aa258860215b878e5888879acbd614b22422969aab788098037053cb249be3a6dfefc25dac07b508d49575e8325e96e42eab5ef5ed350bed0ef3ace30b55a9e762df6efa883a12202db777f3f3cfbc062f5b23e2c8da8770c437ea0f7a74ffd8f8dfce592bdf3bd2d0069e04d9fbc18370b697ee581422d1137860c7b059b3e40ab248ff2e65d2381ddb95e27517e13982aed1f5c258372a61e4314ac907a7e22ca7d81af619415947552b5fbe76efb9ed9d7387965de24e5017c0d66ff3233d06931353d9964a3908663f9e34bd9879d6301"^^<http://www.w3.org/2001/XMLSchema#hexBinary> .
+<http://www.w3.org/People/Berners-Lee/card.rdf#i> <http://www.w3.org/ns/auth/cert#key> _:genid1 .
+<http://dig.csail.mit.edu/2005/ajar/ajaw/data#Tabulator> <http://usefulinc.com/ns/doap#developer> <http://www.w3.org/People/Berners-Lee/card#i> .
+<http://dig.csail.mit.edu/2007/01/camp/data#course> <http://xmlns.com/foaf/0.1/maker> <http://www.w3.org/People/Berners-Lee/card#i> .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/PersonalProfileDocument> .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf> <http://creativecommons.org/ns#license> <http://creativecommons.org/licenses/by-nc/3.0/> .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf> <http://purl.org/dc/elements/1.1/title> "Tim Berners-Lee's editable FOAF file" .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf> <http://xmlns.com/foaf/0.1/maker> <http://www.w3.org/People/Berners-Lee/card#i> .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <http://www.w3.org/People/Berners-Lee/card#i> .
+<http://dig.csail.mit.edu/breadcrumbs/blog/4> <http://purl.org/dc/elements/1.1/title> "timbl's blog" .
+<http://dig.csail.mit.edu/breadcrumbs/blog/4> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dig.csail.mit.edu/breadcrumbs/blog/feed/4> .
+<http://dig.csail.mit.edu/breadcrumbs/blog/4> <http://xmlns.com/foaf/0.1/maker> <http://www.w3.org/People/Berners-Lee/card#i> .
+<http://dig.csail.mit.edu/data#DIG> <http://xmlns.com/foaf/0.1/member> <http://www.w3.org/People/Berners-Lee/card#i> .
+<http://wiki.ontoworld.org/index.php/_IRW2006> <http://purl.org/dc/elements/1.1/title> "Identity, Reference and the Web workshop 2006" .
+<http://wiki.ontoworld.org/index.php/_IRW2006> <http://www.w3.org/2000/10/swap/pim/contact#participant> <http://www.w3.org/People/Berners-Lee/card#i> .
+<http://www.ecs.soton.ac.uk/~dt2/dlstuff/www2006_data#panel-panelk01> <http://www.w3.org/2000/01/rdf-schema#label> "The Next Wave of the Web (Plenary Panel)" .
+<http://www.ecs.soton.ac.uk/~dt2/dlstuff/www2006_data#panel-panelk01> <http://www.w3.org/2000/10/swap/pim/contact#participant> <http://www.w3.org/People/Berners-Lee/card#i> .
+<http://www.gutenberg.org/catalog/world/readfile?fk_files=2372108&pageno=11> <http://purl.org/dc/elements/1.1/title> "Moby Dick, or, the whale" .
+<http://www.w3.org/2000/10/swap/data#Cwm> <http://usefulinc.com/ns/doap#developer> <http://www.w3.org/People/Berners-Lee/card#i> .
+<http://www.w3.org/2011/Talks/0331-hyderabad-tbl/data#talk> <http://purl.org/dc/terms/title> "Designing the Web for an Open Society" .
+<http://www.w3.org/2011/Talks/0331-hyderabad-tbl/data#talk> <http://xmlns.com/foaf/0.1/maker> <http://www.w3.org/People/Berners-Lee/card#i> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/10/swap/pim/contact#Male> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://my-profile.eu/ns/webapp#uses> <http://www.w3.org/People/Berners-Lee/card.rdf#findMyLoc> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://www.w3.org/2000/01/rdf-schema#label> "Tim Berners-Lee" .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.w3.org/2007/11/Talks/search/query?date=All+past+and+future+talks&event=None&activity=None&name=Tim+Berners-Lee&country=None&language=None&office=None&rdfOnly=yes&submit=Submit> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://www.w3.org/2000/10/swap/pim/contact#assistant> <http://www.w3.org/People/Berners-Lee/card#amy> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://www.w3.org/2000/10/swap/pim/contact#homePage> <http://www.w3.org/People/Berners-Lee/> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://www.w3.org/2000/10/swap/pim/contact#likes> <http://www.gutenberg.org/catalog/world/readfile?fk_files=2372108&pageno=11> .
+_:genid3 <http://www.w3.org/2000/10/swap/pim/contact#city> "Cambridge" .
+_:genid3 <http://www.w3.org/2000/10/swap/pim/contact#country> "USA" .
+_:genid3 <http://www.w3.org/2000/10/swap/pim/contact#postalCode> "02139" .
+_:genid3 <http://www.w3.org/2000/10/swap/pim/contact#street> "32 Vassar Street" .
+_:genid3 <http://www.w3.org/2000/10/swap/pim/contact#street2> "MIT CSAIL Room 32-G524" .
+_:genid2 <http://www.w3.org/2000/10/swap/pim/contact#address> _:genid3 .
+_:genid2 <http://www.w3.org/2000/10/swap/pim/contact#phone> <tel:+1-617-253-5702> .
+_:genid4 <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "42.361860" .
+_:genid4 <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-71.091840" .
+_:genid2 <http://www.w3.org/2003/01/geo/wgs84_pos#location> _:genid4 .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://www.w3.org/2000/10/swap/pim/contact#office> _:genid2 .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://www.w3.org/2000/10/swap/pim/contact#preferredURI> "http://www.w3.org/People/Berners-Lee/card#i" .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://www.w3.org/2000/10/swap/pim/contact#publicHomePage> <http://www.w3.org/People/Berners-Lee/> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://www.w3.org/2002/07/owl#sameAs> <http://graph.facebook.com/512908782#> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://www.w3.org/2002/07/owl#sameAs> <http://identi.ca/user/45563> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://www.w3.org/2002/07/owl#sameAs> <http://www.advogato.org/person/timbl/foaf.rdf#me> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://www.w3.org/2002/07/owl#sameAs> <http://www4.wiwiss.fu-berlin.de/bookmashup/persons/Tim+Berners-Lee> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://www.w3.org/2002/07/owl#sameAs> <http://www4.wiwiss.fu-berlin.de/dblp/resource/person/100007> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://www.w3.org/2002/07/owl#sameAs> <https://webid.mit.edu/timbl#> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://www.w3.org/ns/pim/space#preferencesFile> <http://localhost/TimBL/Data/preferences.n3> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://www.w3.org/ns/pim/space#storage> <https://timbl.rww.io/> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/account> <http://en.wikipedia.org/wiki/User:Timbl> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/account> <http://identi.ca/timbl> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/account> <http://twitter.com/timberners_lee> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/account> <http://www.reddit.com/user/timbl/> .
+_:genid5 <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "42.361860" .
+_:genid5 <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-71.091840" .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/based_near> _:genid5 .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/family_name> "Berners-Lee" .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/givenname> "Timothy" .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee/> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/img> <http://www.w3.org/Press/Stock/Berners-Lee/2001-europaeum-eighth.jpg> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/mbox> <mailto:timbl@w3.org> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/name> "Timothy Berners-Lee" .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/nick> "TimBL" .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/nick> "timbl" .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/openid> <http://www.w3.org/People/Berners-Lee/> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/phone> <tel:+1-(617)-253-5702> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/title> "Sir" .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/weblog> <http://dig.csail.mit.edu/breadcrumbs/blog/4> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/workplaceHomepage> <http://www.w3.org/> .
+<http://www.w3.org/data#W3C> <http://xmlns.com/foaf/0.1/member> <http://www.w3.org/People/Berners-Lee/card#i> .
+<http://www4.wiwiss.fu-berlin.de/booksMeshup/books/006251587X> <http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/People/Berners-Lee/card#i> .
+<http://www4.wiwiss.fu-berlin.de/booksMeshup/books/006251587X> <http://purl.org/dc/elements/1.1/title> "Weaving the Web: The Original Design and Ultimate Destiny of the World Wide Web" .
+<https://webid.mit.edu/timbl#> <http://www.w3.org/ns/pim/space#storage> <https://timbl.rww.io/> .
+<http://dig.csail.mit.edu/2008/2002/01/tr-automation/tr.rdf> <http://purl.org/dc/elements/1.1/title> "W3C Standards and Technical Reports" .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf> <http://creativecommons.org/ns#license> <http://creativecommons.org/licenses/by-nc/3.0/> .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf> <http://purl.org/dc/elements/1.1/title> "Tim Berners-Lee's FOAF file" .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/PersonalProfileDocument> .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf> <http://xmlns.com/foaf/0.1/maker> <http://www.w3.org/People/Berners-Lee/card#i> .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf> <http://xmlns.com/foaf/0.1/primaryTopic> <http://www.w3.org/People/Berners-Lee/card#i> .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#cm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#cm> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.koalie.net/foaf.rdf> .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#cm> <http://xmlns.com/foaf/0.1/name> "Coralie Mercier" .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#dj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#dj> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.grorg.org/dean/foaf.rdf> .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#dj> <http://xmlns.com/foaf/0.1/homepage> <http://www.grorg.org/dean/> .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#dj> <http://xmlns.com/foaf/0.1/mbox> <mailto:dean@w3.org> .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#dj> <http://xmlns.com/foaf/0.1/mbox> <mailto:dino@grorg.org> .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#dj> <http://xmlns.com/foaf/0.1/mbox_sha1sum> "6de4ff27ef927b9ba21ccc88257e41a2d7e7d293" .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#dj> <http://xmlns.com/foaf/0.1/name> "Dean Jackson" .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#edd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#edd> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://heddley.com/edd/foaf.rdf> .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#edd> <http://xmlns.com/foaf/0.1/homepage> <http://heddley.com/edd/> .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#edd> <http://xmlns.com/foaf/0.1/mbox> <mailto:edd@usefulinc.com> .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#edd> <http://xmlns.com/foaf/0.1/mbox> <mailto:edd@xml.com> .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#edd> <http://xmlns.com/foaf/0.1/mbox> <mailto:edd@xmlhack.com> .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#edd> <http://xmlns.com/foaf/0.1/name> "Edd Dumbill" .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#edd> <http://xmlns.com/foaf/0.1/nick> "edd" .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#libby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#libby> <http://www.w3.org/2002/07/owl#sameAs> <http://swordfish.rdfweb.org/people/libby/rdfweb/webwho.xrdf#me> .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#libby> <http://xmlns.com/foaf/0.1/img> <http://swordfish.rdfweb.org/~libby/libby.jpg> .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#libby> <http://xmlns.com/foaf/0.1/mbox> <mailto:libby.miller@bristol.ac.uk> .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#libby> <http://xmlns.com/foaf/0.1/name> "Libby Miller" .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#ss> <http://xmlns.com/foaf/0.1/name> "Susie Stephens" .
+<http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#ss> <http://xmlns.com/foaf/0.1/organization> <http://dbpedia.org/resource/Eli_Lilly_and_Company> .
+<http://bblfish.net/people/henry/card#me> <http://xmlns.com/foaf/0.1/name> "Henry Story" .
+<http://dbpedia.org/resource/John_Gage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/John_Gage> <http://xmlns.com/foaf/0.1/img> <http://upload.wikimedia.org/wikipedia/commons/d/de/John_Gage.jpg> .
+<http://dbpedia.org/resource/John_Gage> <http://xmlns.com/foaf/0.1/name> "John Gage" .
+<http://dbpedia.org/resource/John_Klensin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/John_Klensin> <http://xmlns.com/foaf/0.1/name> "John Klensin" .
+<http://dbpedia.org/resource/John_Markoff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/John_Markoff> <http://xmlns.com/foaf/0.1/name> "John Markoff" .
+<http://dbpedia.org/resource/John_Seely_Brown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/John_Seely_Brown> <http://www.w3.org/2002/07/owl#sameAs> <http://www4.wiwiss.fu-berlin.de/bookmashup/persons/John+Seely+Brown> .
+<http://dbpedia.org/resource/John_Seely_Brown> <http://xmlns.com/foaf/0.1/homepage> <http://www.johnseelybrown.com/> .
+<http://dbpedia.org/resource/John_Seely_Brown> <http://xmlns.com/foaf/0.1/img> <http://transliteracies.english.ucsb.edu/images/participants/t/brown-john-seely-2.jpg> .
+<http://dbpedia.org/resource/John_Seely_Brown> <http://xmlns.com/foaf/0.1/name> "John Seely Brown" .
+<http://dbpedia.org/resource/Tim_Bray> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/Tim_Bray> <http://xmlns.com/foaf/0.1/name> "Tim Bray" .
+<http://dig.csail.mit.edu/2007/01/camp/data#course> <http://xmlns.com/foaf/0.1/maker> <http://www.w3.org/People/Berners-Lee/card#i> .
+<http://dig.csail.mit.edu/2007/wiki/people/JoeLambda#JL> <http://xmlns.com/foaf/0.1/firstName> "Joe" .
+<http://dig.csail.mit.edu/2007/wiki/people/JoeLambda#JL> <http://xmlns.com/foaf/0.1/name> "Joe Lambda" .
+<http://dig.csail.mit.edu/2007/wiki/people/RobertHoffmann#RMH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dig.csail.mit.edu/2007/wiki/people/RobertHoffmann#RMH> <http://xmlns.com/foaf/0.1/name> "Robert Hoffmann" .
+<http://dig.csail.mit.edu/breadcrumbs/blog/4> <http://purl.org/dc/elements/1.1/title> "timbl's blog" .
+<http://dig.csail.mit.edu/breadcrumbs/blog/4> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dig.csail.mit.edu/breadcrumbs/blog/feed/4> .
+<http://dig.csail.mit.edu/breadcrumbs/blog/4> <http://xmlns.com/foaf/0.1/maker> <http://www.w3.org/People/Berners-Lee/card#i> .
+<http://dig.csail.mit.edu/data#DIG> <http://xmlns.com/foaf/0.1/member> <http://www.w3.org/People/Berners-Lee/card#i> .
+<http://eikeon.com/foaf.rdf#eikeon> <http://xmlns.com/foaf/0.1/name> "Daniel Krech" .
+<http://hometown.aol.com/chbussler/foaf/chbussler.foaf#me> <http://xmlns.com/foaf/0.1/name> "Christoph Bussler" .
+<http://id.ecs.soton.ac.uk/person/1269> <http://xmlns.com/foaf/0.1/name> "Nicholas Gibbins" .
+<http://id.ecs.soton.ac.uk/person/1650> <http://xmlns.com/foaf/0.1/name> "Wendy Hall" .
+<http://id.ecs.soton.ac.uk/person/2686> <http://xmlns.com/foaf/0.1/name> "Nigel Shadbolt" .
+<http://id.ecs.soton.ac.uk/person/60> <http://xmlns.com/foaf/0.1/name> "Les Carr" .
+<http://inamidst.com/sbp/foaf#Sean> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://inamidst.com/sbp/foaf#Sean> <http://xmlns.com/foaf/0.1/name> "Sean Palmer" .
+<http://my.opera.com/chaals/xml/foaf#me> <http://xmlns.com/foaf/0.1/name> "Charles McCathieNevile" .
+<http://my.opera.com/danbri/xml/foaf#me> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://danbri.livejournal.com/data/foaf> .
+<http://my.opera.com/danbri/xml/foaf#me> <http://www.w3.org/2002/07/owl#sameAs> <http://danbri.org/foaf.rdf#danbri> .
+<http://my.opera.com/danbri/xml/foaf#me> <http://www.w3.org/2002/07/owl#sameAs> <http://www4.wiwiss.fu-berlin.de/dblp/resource/person/336851> .
+<http://my.opera.com/danbri/xml/foaf#me> <http://xmlns.com/foaf/0.1/mbox_sha1sum> "70c053d15de49ff03a1bcc374e4119b40798a66e" .
+<http://my.opera.com/howcome/xml/foaf#howcome> <http://xmlns.com/foaf/0.1/name> "H\u00E5kon Wium Lie" .
+<http://myopenlink.net/dataspace/person/kidehen#this> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://myopenlink.net/dataspace/person/kidehen#this> <http://xmlns.com/foaf/0.1/name> "Kingsley Idehen" .
+<http://norman.walsh.name/knows/who#norman-walsh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://norman.walsh.name/knows/who#norman-walsh> <http://xmlns.com/foaf/0.1/name> "Norman Walsh" .
+<http://people.apache.org/~oshani/foaf.rdf#me> <http://xmlns.com/foaf/0.1/name> "Oshani Seneviratne" .
+<http://people.csail.mit.edu/lkagal/foaf#me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://people.csail.mit.edu/lkagal/foaf#me> <http://xmlns.com/foaf/0.1/mailbox> <mailto:lalana@csail.mit.edu> .
+<http://people.csail.mit.edu/lkagal/foaf#me> <http://xmlns.com/foaf/0.1/name> "Lalana Kagal" .
+<http://people.csail.mit.edu/psz/foaf.rdf#me> <http://xmlns.com/foaf/0.1/name> "Peter Szolovits" .
+<http://people.w3.org/simon/foaf#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://people.w3.org/simon/foaf#i> <http://xmlns.com/foaf/0.1/name> "Simon J. Hernandez" .
+<http://qdos.com/people/tom.xrdf#me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://qdos.com/people/tom.xrdf#me> <http://xmlns.com/foaf/0.1/name> "Tom Ilube" .
+<http://research.microsoft.com/~henrikn/foaf.xml#me> <http://xmlns.com/foaf/0.1/name> "Henrik Nielsen" .
+<http://rit.mellon.org/Members/ihf/foaf.rdf#me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://rit.mellon.org/Members/ihf/foaf.rdf#me> <http://xmlns.com/foaf/0.1/homepage> <http://www.mellon.org/about_foundation/staff/program-area-staff/irafuchs> .
+<http://rit.mellon.org/Members/ihf/foaf.rdf#me> <http://xmlns.com/foaf/0.1/img> <http://www.sun.com/products-n-solutions/edu/images/jelc/fuchs.jpg> .
+<http://rit.mellon.org/Members/ihf/foaf.rdf#me> <http://xmlns.com/foaf/0.1/name> "Ira Fuchs" .
+<http://teole.jfouffa.org/People/Teole/card.rdf#me> <http://xmlns.com/foaf/0.1/name> "Philippe Le H\u00E9garet" .
+<http://users.ecs.soton.ac.uk/mc/mcfoaf.rdf#me> <http://xmlns.com/foaf/0.1/name> "mc schraefel" .
+<http://web.mit.edu/shinnyih/foaf.rdf#> <http://xmlns.com/foaf/0.1/name> "Shinnyih Huang" .
+<http://wiki.ontoworld.org/index.php/_IRW2006> <http://purl.org/dc/elements/1.1/title> "Identity, Reference and the Web workshop 2006" .
+<http://wiki.ontoworld.org/index.php/_IRW2006> <http://www.w3.org/2000/10/swap/pim/contact#participant> <http://www.w3.org/People/Berners-Lee/card#i> .
+<http://www.aaronsw.com/about.xrdf#aaronsw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://www.aaronsw.com/about.xrdf#aaronsw> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.aaronsw.com/about.xrdf> .
+<http://www.aaronsw.com/about.xrdf#aaronsw> <http://xmlns.com/foaf/0.1/mbox> <mailto:me@aaronsw.com> .
+<http://www.aaronsw.com/about.xrdf#aaronsw> <http://xmlns.com/foaf/0.1/name> "Aaron Swartz" .
+<http://www.cambridgesemantics.com/people/about/lee> <http://xmlns.com/foaf/0.1/name> "Lee Feigenbaum" .
+<http://www.cs.umd.edu/~hendler/2003/foaf.rdf#jhendler> <http://xmlns.com/foaf/0.1/name> "Jim Hendler" .
+<http://www.dajobe.org/foaf.rdf#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://www.dajobe.org/foaf.rdf#i> <http://xmlns.com/foaf/0.1/mailbox> <mailto:dave@dajobe.org> .
+<http://www.dajobe.org/foaf.rdf#i> <http://xmlns.com/foaf/0.1/name> "Dave Beckett" .
+<http://www.ecs.soton.ac.uk/~dt2/dlstuff/www2006_data#panel-panelk01> <http://www.w3.org/2000/01/rdf-schema#label> "The Next Wave of the Web (Plenary Panel)" .
+<http://www.ecs.soton.ac.uk/~dt2/dlstuff/www2006_data#panel-panelk01> <http://www.w3.org/2000/10/swap/pim/contact#participant> <http://www.w3.org/People/Berners-Lee/card#i> .
+<http://www.isi.edu/~gil/foaf.rdf#me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://www.isi.edu/~gil/foaf.rdf#me> <http://xmlns.com/foaf/0.1/name> "Yolanda Gill" .
+<http://www.ivan-herman.net/foaf.rdf#me> <http://xmlns.com/foaf/0.1/mbox_sha1sum> "5ac8032d5f6012aa1775ea2f63e1676bafd5e80b" .
+<http://www.ivan-herman.net/foaf.rdf#me> <http://xmlns.com/foaf/0.1/mbox_sha1sum> "c21b7ed00d78a35efcd8e567f8fd9cca71058c5" .
+<http://www.ivan-herman.net/foaf.rdf#me> <http://xmlns.com/foaf/0.1/mbox_sha1sum> "eccd01ba8ce2391a439e9b052a9fbf37eae9f732" .
+<http://www.ivan-herman.net/foaf.rdf#me> <http://xmlns.com/foaf/0.1/name> "Ivan Herman" .
+<http://www.kjetil.kjernsmo.net/foaf#me> <http://xmlns.com/foaf/0.1/name> "Kjetil Kjernsmo" .
+<http://www.lassila.org/ora.rdf#me> <http://xmlns.com/foaf/0.1/name> "Ora Lassila" .
+<http://www.mindswap.org/2004/owl/mindswappers#Bijan.Parsia> <http://xmlns.com/foaf/0.1/name> "Bijan Parsia" .
+<http://www.mindswap.org/2004/owl/mindswappers#Jennifer.Golbeck> <http://xmlns.com/foaf/0.1/name> "Jennifer Golbeck" .
+<http://www.w3.org/People/Berners-Lee/card#amy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://www.w3.org/People/Berners-Lee/card#amy> <http://www.w3.org/2000/01/rdf-schema#label> "Amy van der Hiel" .
+<http://www.w3.org/People/Berners-Lee/card#amy> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://people.w3.org/amy/foaf.rdf> .
+<http://www.w3.org/People/Berners-Lee/card#amy> <http://www.w3.org/2000/10/swap/pim/contact#familyName> "van der Hiel" .
+<http://www.w3.org/People/Berners-Lee/card#amy> <http://www.w3.org/2000/10/swap/pim/contact#givenName> "Amy" .
+<http://www.w3.org/People/Berners-Lee/card#amy> <http://xmlns.com/foaf/0.1/mbox> <mailto:amy@w3.org> .
+<http://www.w3.org/People/Berners-Lee/card#amy> <http://xmlns.com/foaf/0.1/mbox_sha1sum> "1839a1cc2e719a85ea7d9007f587b2899cd94064" .
+<http://www.w3.org/People/Berners-Lee/card#amy> <http://xmlns.com/foaf/0.1/name> "Amy van der Hiel" .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/img> <http://www.w3.org/Press/Stock/Berners-Lee/2001-europaeum-eighth.jpg> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://bblfish.net/people/henry/card#me> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://danbri.org/foaf#danbri> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://dbpedia.org/resource/John_Gage> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://dbpedia.org/resource/John_Klensin> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://dbpedia.org/resource/John_Markoff> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://dbpedia.org/resource/John_Seely_Brown> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://dbpedia.org/resource/Tim_Bray> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://dig.csail.mit.edu/2007/wiki/people/JoeLambda#JL> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://dig.csail.mit.edu/2007/wiki/people/RobertHoffmann#RMH> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#cm> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#edd> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#libby> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf#ss> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://dig.csail.mit.edu/People/RRS> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://dig.csail.mit.edu/People/yosi#YES> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://eikeon.com/foaf.rdf#eikeon> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://heddley.com/edd/foaf.rdf#edd> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://hometown.aol.com/chbussler/foaf/chbussler.foaf#me> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://id.ecs.soton.ac.uk/person/1269> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://id.ecs.soton.ac.uk/person/1650> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://id.ecs.soton.ac.uk/person/2686> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://id.ecs.soton.ac.uk/person/60> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://inamidst.com/sbp/foaf#Sean> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://my.opera.com/chaals/xml/foaf#me> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://my.opera.com/howcome/xml/foaf#howcome> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://myopenlink.net/dataspace/person/kidehen#this> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://norman.walsh.name/knows/who#norman-walsh> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://people.apache.org/~oshani/foaf.rdf#me> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://people.csail.mit.edu/crowell/foaf.rdf#crowell> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://people.csail.mit.edu/lkagal/foaf#me> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://people.csail.mit.edu/psz/foaf.rdf#me> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://people.csail.mit.edu/ryanlee/about#ryanlee> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://people.w3.org/simon/foaf#i> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://presbrey.mit.edu/foaf.rdf#presbrey> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://qdos.com/people/tom.xrdf#me> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://research.microsoft.com/~henrikn/foaf.xml#me> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://rit.mellon.org/Members/ihf/foaf.rdf#me> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://teole.jfouffa.org/People/Teole/card.rdf#me> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://users.ecs.soton.ac.uk/mc/mcfoaf.rdf#me> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://web.mit.edu/ruthdhan/www/foaf.rdf#ruthdhan> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://web.mit.edu/shinnyih/foaf.rdf#> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://www.aaronsw.com/about.xrdf#aaronsw> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://www.aaronsw.com/about.xrdf#aaronsw> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://www.cambridgesemantics.com/people/about/lee> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://www.cs.umd.edu/~hendler/2003/foaf.rdf#jhendler> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://www.dajobe.org/foaf.rdf#i> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://www.isi.edu/~gil/foaf.rdf#me> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://www.ivan-herman.net/foaf.rdf#me> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://www.kjetil.kjernsmo.net/foaf#me> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://www.lassila.org/ora.rdf#me> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://www.mindswap.org/2004/owl/mindswappers#Bijan.Parsia> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://www.mindswap.org/2004/owl/mindswappers#Jennifer.Golbeck> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://www.w3.org/People/Berners-Lee/card#amy> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://www.w3.org/People/Connolly/#me> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://www.w3.org/People/EM/contact#me> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://www.w3.org/People/Jacobs/contact.rdf#IanJacobs> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://www.w3.org/People/djweitzner/foaf#DJW> .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> <http://www.w3.org/People/karl/karl-foaf.xrdf#me> .
+_:genid1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid1 <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dannyayers.com/me.rdf> .
+_:genid1 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "669fe353dbef63d12ba11f69ace8acbec1ac8b17" .
+_:genid1 <http://xmlns.com/foaf/0.1/name> "Danny Ayers" .
+<http://www.w3.org/People/Berners-Lee/card#i> <http://xmlns.com/foaf/0.1/knows> _:genid1 .
+<http://www.w3.org/People/Connolly/#me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://www.w3.org/People/Connolly/#me> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.w3.org/People/Connolly/home-smart.rdf> .
+<http://www.w3.org/People/Connolly/#me> <http://xmlns.com/foaf/0.1/mbox> <mailto:connolly@w3.org> .
+<http://www.w3.org/People/Connolly/#me> <http://xmlns.com/foaf/0.1/name> "Dan Connolly" .
+<http://www.w3.org/People/Connolly/#me> <http://xmlns.com/foaf/0.1/nick> "DanCon" .
+<http://www.w3.org/People/EM/contact#me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://www.w3.org/People/EM/contact#me> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.w3.org/People/EM/contact> .
+<http://www.w3.org/People/EM/contact#me> <http://xmlns.com/foaf/0.1/homepage> <http://purl.org/net/eric/> .
+<http://www.w3.org/People/EM/contact#me> <http://xmlns.com/foaf/0.1/img> <http://www.ilrt.bristol.ac.uk/people/cmdjb/events/dc7/orig/eric.png> .
+<http://www.w3.org/People/EM/contact#me> <http://xmlns.com/foaf/0.1/img> <http://www.oclc.org/~emiller/capture.jpg> .
+<http://www.w3.org/People/EM/contact#me> <http://xmlns.com/foaf/0.1/mbox> <mailto:em@w3.org> .
+<http://www.w3.org/People/EM/contact#me> <http://xmlns.com/foaf/0.1/name> "Eric Miller" .
+<http://www.w3.org/People/Jacobs/contact.rdf#IanJacobs> <http://xmlns.com/foaf/0.1/name> "Ian Jacobs" .
+<http://www.w3.org/People/djweitzner/foaf#DJW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://www.w3.org/People/djweitzner/foaf#DJW> <http://xmlns.com/foaf/0.1/mbox_sha1sum> "032c319f439f63efba54f4fa51bfb3a3fafedfbe" .
+<http://www.w3.org/People/djweitzner/foaf#DJW> <http://xmlns.com/foaf/0.1/name> "Daniel J Weitzner" .
+<http://www.w3.org/People/karl/karl-foaf.xrdf#me> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.w3.org/People/karl/karl-foaf.xrdf> .
+<http://www.w3.org/People/karl/karl-foaf.xrdf#me> <http://xmlns.com/foaf/0.1/mbox> <mailto:karl@w3.org> .
+<http://www.w3.org/People/karl/karl-foaf.xrdf#me> <http://xmlns.com/foaf/0.1/name> "Karl Dubost" .
+<http://www.w3.org/data#W3C> <http://www.w3.org/2000/01/rdf-schema#label> "W3C" .
+<http://www.w3.org/data#W3C> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dig.csail.mit.edu/2008/2002/01/tr-automation/tr.rdf> .
+<http://www.w3.org/data#W3C> <http://www.w3.org/2000/10/swap/pim/contact#publicHomePage> <http://www.w3.org/> .
+<http://www.w3.org/data#W3C> <http://xmlns.com/foaf/0.1/homepage> <http://dig.csail.mit.edu/2008/> .
+<http://www.w3.org/data#W3C> <http://xmlns.com/foaf/0.1/logo> <http://dig.csail.mit.edu/2008/Icons/w3c_home> .
+<http://www.w3.org/data#W3C> <http://xmlns.com/foaf/0.1/name> "World Wide Web Consortium" .
+<http://www4.wiwiss.fu-berlin.de/booksMeshup/books/006251587X> <http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/People/Berners-Lee/card#i> .
+<http://www4.wiwiss.fu-berlin.de/booksMeshup/books/006251587X> <http://purl.org/dc/elements/1.1/title> "Weaving the Web: The Original Design and Ultimate Destiny of the World Wide Web" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_20080213-738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid1 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid1 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid1 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_20080213-738> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid1 .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_20080213-738> <http://www.w3.org/2004/08/Presentations.owl#type> "talk" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_20080213-738> <http://purl.org/dc/elements/1.1/date> "2008-02-13" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_20080213-738> <http://purl.org/dc/elements/1.1/title> "(not yet determined)" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_20080213-738> <http://purl.org/dc/elements/1.1/created> "2008-02-04T07:05:00Z" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_20080213-738> <http://www.w3.org/2000/01/rdf-schema#comment> "\n    Tim will also receive the PathFinder Award  \"for those who have broken critical ground in creating public value through IT-enabled innovations in the public sector\"\n  " .
+_:genid2 <http://www.w3.org/2002/12/cal/ical#organizer> "John F. Kennedy School of Government, Harvard University" .
+_:genid2 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "USA" .
+_:genid2 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Cambridge, MA" .
+_:genid2 <http://www.w3.org/2002/12/cal/ical#description> "Innovation Through IT for Senior Leaders in Government (ITSL) workshop" .
+_:genid2 <http://www.w3.org/2002/12/cal/ical#url> <http://ksgexecprogram.harvard.edu/program/lnw2//overview.aspx> .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_20080213-738> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid2 .
+<http://www.w3.org/2004/08/TalkFiles/2007/Talks.rdf#X_20071210-602> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid3 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid3 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid3 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2007/Talks.rdf#X_20071210-602> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid3 .
+<http://www.w3.org/2004/08/TalkFiles/2007/Talks.rdf#X_20071210-602> <http://www.w3.org/2004/08/Presentations.owl#type> "keynote" .
+<http://www.w3.org/2004/08/TalkFiles/2007/Talks.rdf#X_20071210-602> <http://purl.org/dc/elements/1.1/date> "2007-12-10" .
+<http://www.w3.org/2004/08/TalkFiles/2007/Talks.rdf#X_20071210-602> <http://purl.org/dc/elements/1.1/title> "Web Past and Future" .
+<http://www.w3.org/2004/08/TalkFiles/2007/Talks.rdf#X_20071210-602> <http://purl.org/dc/elements/1.1/created> "2007-12-10T07:47:00Z" .
+<http://www.w3.org/2004/08/TalkFiles/2007/Talks.rdf#X_20071210-602> <http://www.w3.org/2000/01/rdf-schema#comment> "**** Warning: date was bogus, replaced with today's date. Original date was: 20071210 ****" .
+_:genid4 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "USA" .
+_:genid4 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Washington, DC" .
+_:genid4 <http://www.w3.org/2002/12/cal/ical#description> "World Healthcare Innovation and Technology (WHIT 3.0) Congress 2007" .
+_:genid4 <http://www.w3.org/2002/12/cal/ical#url> <http://www.worldcongress.com/events/HT07010/> .
+<http://www.w3.org/2004/08/TalkFiles/2007/Talks.rdf#X_20071210-602> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid4 .
+<http://www.w3.org/2004/08/TalkFiles/2007/Talks.rdf#X_20071210-602> <http://purl.org/dc/elements/1.1/identifier> <http://www.w3.org/2007/Talks/1211-whit-tbl/#(1)> .
+<http://www.w3.org/2004/08/TalkFiles/2004/W3CTrack.rdf#X_2004-05-21-921> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid5 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid5 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid5 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2004/W3CTrack.rdf#X_2004-05-21-921> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid5 .
+<http://www.w3.org/2004/08/TalkFiles/2004/W3CTrack.rdf#X_2004-05-21-921> <http://www.w3.org/2004/08/Presentations.owl#type> "talk" .
+<http://www.w3.org/2004/08/TalkFiles/2004/W3CTrack.rdf#X_2004-05-21-921> <http://purl.org/dc/elements/1.1/date> "2004-05-21" .
+<http://www.w3.org/2004/08/TalkFiles/2004/W3CTrack.rdf#X_2004-05-21-921> <http://purl.org/dc/elements/1.1/title> "What is coming up in W3C?" .
+<http://www.w3.org/2004/08/TalkFiles/2004/W3CTrack.rdf#X_2004-05-21-921> <http://purl.org/dc/elements/1.1/identifier> <http://www.w3.org/2004/Talks/0521-sb-newideas/> .
+<http://www.w3.org/2004/08/TalkFiles/2004/W3CTrack.rdf#track> <http://www.w3.org/2001/vcard-rdf/3.0#Country> "USA" .
+<http://www.w3.org/2004/08/TalkFiles/2004/W3CTrack.rdf#track> <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "New York" .
+<http://www.w3.org/2004/08/TalkFiles/2004/W3CTrack.rdf#track> <http://www.w3.org/2002/12/cal/ical#description> "W3C Track, The 13th International World Wide Web Conference (WWW2004)" .
+<http://www.w3.org/2004/08/TalkFiles/2004/W3CTrack.rdf#track> <http://www.w3.org/2002/12/cal/ical#url> <http://www.w3.org/2004/03/w3c-track04.html> .
+<http://www.w3.org/2004/08/TalkFiles/2004/W3CTrack.rdf#X_2004-05-21-921> <http://www.w3.org/2004/08/Presentations.owl#event> <http://www.w3.org/2004/08/TalkFiles/2004/W3CTrack.rdf#track> .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_20060404-960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid6 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid6 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid6 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_20060404-960> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid6 .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_20060404-960> <http://www.w3.org/2004/08/Presentations.owl#type> "keynote" .
+_:genid7 <http://www.w3.org/2001/04/roadmap/org#name> "Semantic Web Activity" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_20060404-960> <http://www.w3.org/2004/08/Presentations.owl#w3cActivity> _:genid7 .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_20060404-960> <http://purl.org/dc/elements/1.1/date> "2006-04-04" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_20060404-960> <http://purl.org/dc/elements/1.1/title> "Semantic Web:  Building on what exists" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_20060404-960> <http://purl.org/dc/elements/1.1/identifier> <http://www.w3.org/2006/Talks/0404-mit-tbl/> .
+_:genid8 <http://www.w3.org/2002/12/cal/ical#organizer> "MIT Industrial Liason Program" .
+_:genid8 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "USA" .
+_:genid8 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Cambridge, MA" .
+_:genid8 <http://www.w3.org/2002/12/cal/ical#description> " MIT Information Technology Conference" .
+_:genid8 <http://www.w3.org/2002/12/cal/ical#url> <http://ilp-www.mit.edu/display_event_agenda.a4d?eventId=1800&key=P4b> .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_20060404-960> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid8 .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_20051019-635> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid9 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid9 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid9 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_20051019-635> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid9 .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_20051019-635> <http://www.w3.org/2004/08/Presentations.owl#type> "invited talk" .
+_:genid10 <http://www.w3.org/2001/04/roadmap/org#name> "Semantic Web Activity" .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_20051019-635> <http://www.w3.org/2004/08/Presentations.owl#w3cActivity> _:genid10 .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_20051019-635> <http://purl.org/dc/elements/1.1/date> "2005-10-19" .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_20051019-635> <http://purl.org/dc/elements/1.1/title> "Data as Knowledge: Applying the Semantic Web" .
+_:genid11 <http://www.w3.org/2002/12/cal/ical#organizer> "Babson College" .
+_:genid11 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "USA" .
+_:genid11 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Wellesley, MA" .
+_:genid11 <http://www.w3.org/2002/12/cal/ical#description> "Working Knowledge Program" .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_20051019-635> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid11 .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-07-22-257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid12 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid12 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid12 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid12 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-07-22-257> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid12 .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-07-22-257> <http://www.w3.org/2004/08/Presentations.owl#type> "invited talk" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-07-22-257> <http://purl.org/dc/elements/1.1/date> "2008-07-22" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-07-22-257> <http://purl.org/dc/elements/1.1/title> "Web Science" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-07-22-257> <http://purl.org/dc/elements/1.1/created> "2008-08-07T08:24:00Z" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-07-22-257> <http://www.w3.org/2000/01/rdf-schema#comment> "\n    no slides\n  " .
+_:genid13 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "United Kingdom" .
+_:genid13 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Oxford" .
+_:genid13 <http://www.w3.org/2002/12/cal/ical#description> "Oxford Internet Institute 2008 Summer Doctoral Programme" .
+_:genid13 <http://www.w3.org/2002/12/cal/ical#url> <http://www.oii.ox.ac.uk/teaching/sdp/Y2008.cfm> .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-07-22-257> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid13 .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-04-05-606> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid14 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid14 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid14 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid14 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-04-05-606> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid14 .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-04-05-606> <http://www.w3.org/2004/08/Presentations.owl#type> "invited talk" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-04-05-606> <http://purl.org/dc/elements/1.1/date> "2006-04-05" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-04-05-606> <http://purl.org/dc/elements/1.1/title> "The Future of the Web" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-04-05-606> <http://purl.org/dc/elements/1.1/identifier> <http://www.w3.org/2006/Talks/0405-princeton-tbl/> .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-04-05-606> <http://www.w3.org/2000/01/rdf-schema#comment> "\n    Going by what Janet suggested for the Tufts lecture, this lecture could probably be added to the homepage as well.\n  " .
+_:genid15 <http://www.w3.org/2002/12/cal/ical#organizer> "Princeton University" .
+_:genid15 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "USA" .
+_:genid15 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Princeton University, Princeton, NJ" .
+_:genid15 <http://www.w3.org/2002/12/cal/ical#description> "Spencer Trask lecture " .
+_:genid15 <http://www.w3.org/2002/12/cal/ical#url> <http://www.princeton.edu/~publect/namedlectures/trask.htm> .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-04-05-606> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid15 .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_2005-05-17-488> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid16 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid16 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid16 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid16 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_2005-05-17-488> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid16 .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_2005-05-17-488> <http://www.w3.org/2004/08/Presentations.owl#type> "talk" .
+_:genid17 <http://www.w3.org/2001/04/roadmap/org#name> "Semantic Web Activity" .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_2005-05-17-488> <http://www.w3.org/2004/08/Presentations.owl#w3cActivity> _:genid17 .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_2005-05-17-488> <http://purl.org/dc/elements/1.1/date> "2005-05-17" .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_2005-05-17-488> <http://purl.org/dc/elements/1.1/title> "Semantic Web concepts" .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_2005-05-17-488> <http://purl.org/dc/elements/1.1/identifier> <http://www.w3.org/2005/Talks/0517-boit-tbl/> .
+_:genid18 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "USA" .
+_:genid18 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Boston" .
+_:genid18 <http://www.w3.org/2002/12/cal/ical#description> "Bio-IT World" .
+_:genid18 <http://www.w3.org/2002/12/cal/ical#url> <http://www.bioitworldexpo.com/live/26/> .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_2005-05-17-488> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid18 .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_20080617-429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid19 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid19 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid19 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid19 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_20080617-429> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid19 .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_20080617-429> <http://www.w3.org/2004/08/Presentations.owl#type> "talk" .
+_:genid20 <http://www.w3.org/2001/04/roadmap/org#name> "Semantic Web Activity" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_20080617-429> <http://www.w3.org/2004/08/Presentations.owl#w3cActivity> _:genid20 .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_20080617-429> <http://purl.org/dc/elements/1.1/date> "2008-06-17" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_20080617-429> <http://purl.org/dc/elements/1.1/title> "Web of Data" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_20080617-429> <http://purl.org/dc/elements/1.1/created> "2008-02-04T03:20:00Z" .
+_:genid21 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "USA" .
+_:genid21 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "New York, NY" .
+_:genid21 <http://www.w3.org/2002/12/cal/ical#description> "LinkedData Planet Conference: exploring the new web of linked data" .
+_:genid21 <http://www.w3.org/2002/12/cal/ical#url> <http://www.linkeddataplanet.com/index.php> .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_20080617-429> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid21 .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-09-19-590> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid22 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid22 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid22 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid22 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-09-19-590> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid22 .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-09-19-590> <http://www.w3.org/2004/08/Presentations.owl#type> "keynote" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-09-19-590> <http://purl.org/dc/elements/1.1/date> "2006-09-19" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-09-19-590> <http://purl.org/dc/elements/1.1/title> "The Evolving Web" .
+_:genid23 <http://www.w3.org/2002/12/cal/ical#organizer> "Ordnance Survey" .
+_:genid23 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "UK" .
+_:genid23 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Southampton" .
+_:genid23 <http://www.w3.org/2002/12/cal/ical#description> "TerraFuture conference" .
+_:genid23 <http://www.w3.org/2002/12/cal/ical#url> <http://www.ordnancesurvey.co.uk/oswebsite/partnerships/research/terrafuture/> .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-09-19-590> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid23 .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-11-18-979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid24 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid24 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid24 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid24 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-11-18-979> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid24 .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-11-18-979> <http://www.w3.org/2004/08/Presentations.owl#type> "keynote" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-11-18-979> <http://purl.org/dc/elements/1.1/date> "2004-11-18" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-11-18-979> <http://purl.org/dc/elements/1.1/title> "Web Services - Hopes and Fears" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-11-18-979> <http://purl.org/dc/elements/1.1/identifier> <http://www.w3.org/2004/Talks/1118-icsoc-tbl/slide1-1.html> .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-11-18-979> <http://www.w3.org/2000/01/rdf-schema#comment> "===== This entry has not been checked by the comm team yet ====" .
+_:genid25 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "USA" .
+_:genid25 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "New York, NY" .
+_:genid25 <http://www.w3.org/2002/12/cal/ical#description> "2nd International Conference on Service Oriented Computing (ICSOC)" .
+_:genid25 <http://www.w3.org/2002/12/cal/ical#url> <http://www.icsoc.org/> .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-11-18-979> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid25 .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_20050603-835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid26 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid26 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid26 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid26 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_20050603-835> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid26 .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_20050603-835> <http://www.w3.org/2004/08/Presentations.owl#type> "keynote" .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_20050603-835> <http://purl.org/dc/elements/1.1/date> "2005-06-03" .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_20050603-835> <http://www.w3.org/2000/01/rdf-schema#comment> "\n    I'm not sure of the title of Tim's keynote yet but will update that plus his slides when I do know. \n  " .
+_:genid27 <http://www.w3.org/2002/12/cal/ical#organizer> "W3C" .
+_:genid27 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "France" .
+_:genid27 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Sophia Antipolis" .
+_:genid27 <http://www.w3.org/2002/12/cal/ical#description> "W3C10 Europe" .
+_:genid27 <http://www.w3.org/2002/12/cal/ical#url> <http://www.w3.org/2005/06/W3C10> .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_20050603-835> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid27 .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-10-27-171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid28 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid28 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid28 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid28 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-10-27-171> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid28 .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-10-27-171> <http://www.w3.org/2004/08/Presentations.owl#type> "talk" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-10-27-171> <http://purl.org/dc/elements/1.1/date> "2004-10-27" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-10-27-171> <http://purl.org/dc/elements/1.1/title> "The Semantic Web" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-10-27-171> <http://purl.org/dc/elements/1.1/identifier> <http://www.w3.org/2004/Talks/1016-sweb-lifesci-tbl/slide1-0.html> .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-10-27-171> <http://www.w3.org/2000/01/rdf-schema#comment> "===== This entry has not been checked by the comm team yet ====" .
+_:genid29 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "USA" .
+_:genid29 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Cambridge, MA" .
+_:genid29 <http://www.w3.org/2002/12/cal/ical#description> "W3C Workshop on Semantic Web for Life Sciences" .
+_:genid29 <http://www.w3.org/2002/12/cal/ical#url> <http://www.w3.org/2004/07/swls-cfp.html> .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-10-27-171> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid29 .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-03-14-914> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+<http://webcast.oii.ox.ac.uk/download/oii/20060314_139/20060314_139.mp3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Sound> .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-03-14-914> <http://purl.org/dc/terms/hasFormat> <http://webcast.oii.ox.ac.uk/download/oii/20060314_139/20060314_139.mp3> .
+<http://streaming.oii.ox.ac.uk:554/ramgen/archive/oii/20060314_139/20060314_139.rm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-03-14-914> <http://purl.org/dc/terms/hasFormat> <http://streaming.oii.ox.ac.uk:554/ramgen/archive/oii/20060314_139/20060314_139.rm> .
+_:genid30 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid30 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid30 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid30 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-03-14-914> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid30 .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-03-14-914> <http://www.w3.org/2004/08/Presentations.owl#type> "talk" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-03-14-914> <http://purl.org/dc/elements/1.1/date> "2006-03-14" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-03-14-914> <http://purl.org/dc/elements/1.1/title> "The future of the Web" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-03-14-914> <http://purl.org/dc/elements/1.1/identifier> <http://www.w3.org/2006/Talks/0314-ox-tbl/> .
+_:genid31 <http://www.w3.org/2002/12/cal/ical#organizer> "e-Horizons Institute/Oxford Internet Institute" .
+_:genid31 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "UK" .
+_:genid31 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Oxford" .
+_:genid31 <http://www.w3.org/2002/12/cal/ical#description> "e-Horizons Institute lecture" .
+_:genid31 <http://www.w3.org/2002/12/cal/ical#url> <http://www.oii.ox.ac.uk/collaboration/?rq=lectures/20060314> .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-03-14-914> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid31 .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_2005-05-18-936> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid32 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid32 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid32 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid32 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_2005-05-18-936> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid32 .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_2005-05-18-936> <http://www.w3.org/2004/08/Presentations.owl#type> "talk" .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_2005-05-18-936> <http://purl.org/dc/elements/1.1/date> "2005-05-18" .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_2005-05-18-936> <http://purl.org/dc/elements/1.1/title> "The Economic Importance of Standards" .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_2005-05-18-936> <http://purl.org/dc/elements/1.1/identifier> <http://www.w3.org/2005/Talks/0518-stds-tbl/> .
+_:genid33 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "USA" .
+_:genid33 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Cambridge, MA" .
+_:genid33 <http://www.w3.org/2002/12/cal/ical#description> "MIT CIO Symposium" .
+_:genid33 <http://www.w3.org/2002/12/cal/ical#url> <http://www.mitcio.com/> .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_2005-05-18-936> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid33 .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-06-16-850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid34 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid34 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid34 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid34 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-06-16-850> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid34 .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-06-16-850> <http://www.w3.org/2004/08/Presentations.owl#type> "talk" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-06-16-850> <http://purl.org/dc/elements/1.1/date> "2004-06-16" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-06-16-850> <http://purl.org/dc/elements/1.1/title> "The History and Future of the World Wide Web" .
+_:genid35 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "Finland" .
+_:genid35 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Espoo" .
+_:genid35 <http://www.w3.org/2002/12/cal/ical#description> "Millennium Technology Conference, Finnish Technology Award Foundation" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-06-16-850> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid35 .
+<http://www.w3.org/2004/08/TalkFiles/2007/Talks.rdf#X_2007-02-12-330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid36 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid36 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid36 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid36 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2007/Talks.rdf#X_2007-02-12-330> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid36 .
+<http://www.w3.org/2004/08/TalkFiles/2007/Talks.rdf#X_2007-02-12-330> <http://www.w3.org/2004/08/Presentations.owl#type> "keynote" .
+<http://www.w3.org/2004/08/TalkFiles/2007/Talks.rdf#X_2007-02-12-330> <http://purl.org/dc/elements/1.1/date> "2007-02-12" .
+<http://www.w3.org/2004/08/TalkFiles/2007/Talks.rdf#X_2007-02-12-330> <http://purl.org/dc/elements/1.1/title> "The Mobile Web" .
+<http://www.w3.org/2004/08/TalkFiles/2007/Talks.rdf#X_2007-02-12-330> <http://purl.org/dc/elements/1.1/identifier> <http://www.w3.org/2007/Talks/0222-3gsm-tbl/text.html> .
+_:genid37 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "Spain" .
+_:genid37 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Barcelona" .
+_:genid37 <http://www.w3.org/2002/12/cal/ical#description> "3GSM 2007" .
+_:genid37 <http://www.w3.org/2002/12/cal/ical#url> <http://3gsmworldcongress.com/> .
+<http://www.w3.org/2004/08/TalkFiles/2007/Talks.rdf#X_2007-02-12-330> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid37 .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-12-01-690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid38 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid38 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid38 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid38 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-12-01-690> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid38 .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-12-01-690> <http://www.w3.org/2004/08/Presentations.owl#type> "panel" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-12-01-690> <http://purl.org/dc/elements/1.1/date> "2004-12-01" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-12-01-690> <http://purl.org/dc/elements/1.1/title> "How It All Started" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-12-01-690> <http://purl.org/dc/elements/1.1/identifier> <http://www.w3.org/2004/Talks/w3c10-HowItAllStarted/> .
+_:genid39 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "USA" .
+_:genid39 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Cambridge, MA" .
+_:genid39 <http://www.w3.org/2002/12/cal/ical#description> "W3C Tenth Anniversary Celebration" .
+_:genid39 <http://www.w3.org/2002/12/cal/ical#url> <http://www.w3.org/2004/09/W3C10> .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-12-01-690> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid39 .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-06-17-16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid40 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid40 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid40 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid40 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-06-17-16> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid40 .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-06-17-16> <http://www.w3.org/2004/08/Presentations.owl#type> "keynote" .
+_:genid41 <http://www.w3.org/2001/04/roadmap/org#name> "Semantic Web Activity" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-06-17-16> <http://www.w3.org/2004/08/Presentations.owl#w3cActivity> _:genid41 .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-06-17-16> <http://purl.org/dc/elements/1.1/date> "2008-06-17" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-06-17-16> <http://purl.org/dc/elements/1.1/title> "Web of Data" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-06-17-16> <http://purl.org/dc/elements/1.1/created> "2008-06-06T08:04:00Z" .
+_:genid42 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "USA" .
+_:genid42 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "New York, NYC" .
+_:genid42 <http://www.w3.org/2002/12/cal/ical#description> "LinkedData Planet" .
+_:genid42 <http://www.w3.org/2002/12/cal/ical#url> <http://www.linkeddataplanet.com/index.php> .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-06-17-16> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid42 .
+<http://www.w3.org/2004/08/TalkFiles/2007/Talks.rdf#X_2007-11-14-840> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid43 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid43 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid43 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid43 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2007/Talks.rdf#X_2007-11-14-840> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid43 .
+<http://www.w3.org/2004/08/TalkFiles/2007/Talks.rdf#X_2007-11-14-840> <http://www.w3.org/2004/08/Presentations.owl#type> "talk" .
+_:genid44 <http://www.w3.org/2001/04/roadmap/org#name> "Mobile Web Initiative Activity" .
+<http://www.w3.org/2004/08/TalkFiles/2007/Talks.rdf#X_2007-11-14-840> <http://www.w3.org/2004/08/Presentations.owl#w3cActivity> _:genid44 .
+<http://www.w3.org/2004/08/TalkFiles/2007/Talks.rdf#X_2007-11-14-840> <http://purl.org/dc/elements/1.1/date> "2007-11-14" .
+<http://www.w3.org/2004/08/TalkFiles/2007/Talks.rdf#X_2007-11-14-840> <http://purl.org/dc/elements/1.1/title> "Escaping the Walled Garden: Growing the Mobile Web with Open Standards" .
+<http://www.w3.org/2004/08/TalkFiles/2007/Talks.rdf#X_2007-11-14-840> <http://purl.org/dc/elements/1.1/created> "2007-10-19T05:11:00Z" .
+_:genid45 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "USA" .
+_:genid45 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Boston, MA" .
+_:genid45 <http://www.w3.org/2002/12/cal/ical#description> "http://www.mobilenetx.com" .
+_:genid45 <http://www.w3.org/2002/12/cal/ical#url> <http://www.mobilenetx.com> .
+<http://www.w3.org/2004/08/TalkFiles/2007/Talks.rdf#X_2007-11-14-840> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid45 .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2009-09-14-870> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid46 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid46 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid46 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid46 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2009-09-14-870> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid46 .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2009-09-14-870> <http://www.w3.org/2004/08/Presentations.owl#type> "keynote" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#speechTek> <http://www.w3.org/2001/vcard-rdf/3.0#Country> "USA" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#speechTek> <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "New York, NY" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#speechTek> <http://www.w3.org/2002/12/cal/ical#description> "SpeechTEK 2004 10th Anniversary Conference and Exhibition" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#speechTek> <http://www.w3.org/2002/12/cal/ical#url> <http://www.speechtek.com/conference/> .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2009-09-14-870> <http://www.w3.org/2004/08/Presentations.owl#event> <http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#speechTek> .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2009-09-14-870> <http://purl.org/dc/elements/1.1/date> "2004-09-14" .
+<http://www.w3.org/2004/08/TalkFiles/2004/W3CTrack.rdf#X_2004-05-19-963> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid47 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid47 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid47 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid47 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2004/W3CTrack.rdf#X_2004-05-19-963> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid47 .
+<http://www.w3.org/2004/08/TalkFiles/2004/W3CTrack.rdf#X_2004-05-19-963> <http://www.w3.org/2004/08/Presentations.owl#type> "keynote" .
+<http://www.w3.org/2004/08/TalkFiles/2004/W3CTrack.rdf#X_2004-05-19-963> <http://purl.org/dc/elements/1.1/date> "2004-05-19" .
+<http://www.w3.org/2004/08/TalkFiles/2004/W3CTrack.rdf#X_2004-05-19-963> <http://purl.org/dc/elements/1.1/identifier> <http://www.w3.org/2004/Talks/0519-tbl-keynote/slide1-0.html> .
+_:genid48 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "USA" .
+_:genid48 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "New York" .
+_:genid48 <http://www.w3.org/2002/12/cal/ical#description> "The 13th International World Wide Web Conference (WWW2004)" .
+_:genid48 <http://www.w3.org/2002/12/cal/ical#url> <http://www2004.org> .
+<http://www.w3.org/2004/08/TalkFiles/2004/W3CTrack.rdf#X_2004-05-19-963> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid48 .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-07-18-553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid49 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid49 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid49 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid49 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-07-18-553> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid49 .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-07-18-553> <http://www.w3.org/2004/08/Presentations.owl#type> "keynote" .
+_:genid50 <http://www.w3.org/2001/04/roadmap/org#name> "Semantic Web Activity" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-07-18-553> <http://www.w3.org/2004/08/Presentations.owl#w3cActivity> _:genid50 .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-07-18-553> <http://purl.org/dc/elements/1.1/date> "2006-07-18" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-07-18-553> <http://purl.org/dc/elements/1.1/title> " AI and Semantic Web" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-07-18-553> <http://purl.org/dc/elements/1.1/identifier> <http://www.w3.org/2006/Talks/0718-aaai-tbl/Overview.html> .
+_:genid51 <http://www.w3.org/2002/12/cal/ical#organizer> "American Association for Artificial Intelligence" .
+_:genid51 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "USA" .
+_:genid51 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Boston, MA" .
+_:genid51 <http://www.w3.org/2002/12/cal/ical#description> "The Twenty-First National Conference on Artificial Intelligence" .
+_:genid51 <http://www.w3.org/2002/12/cal/ical#url> <http://www.aaai.org/Conferences/AAAI/aaai06.php> .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_2006-07-18-553> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid51 .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_20061106-964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_20061106-964> <http://www.w3.org/2004/08/Presentations.owl#type> "talk" .
+_:genid52 <http://www.w3.org/2001/04/roadmap/org#name> "Semantic Web Activity" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_20061106-964> <http://www.w3.org/2004/08/Presentations.owl#w3cActivity> _:genid52 .
+_:genid53 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:OIacfJKG2176 .
+_:OIacfJKG2176 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:OIacfJKG2176 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:OIacfJKG2176 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:OIacfJKG2176 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+_:genid54 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:OIacfJKG2178 .
+_:genid53 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid54 .
+_:OIacfJKG2178 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:OIacfJKG2178 <http://xmlns.com/foaf/0.1/name> "Dan Connolly" .
+_:OIacfJKG2178 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "94b6eb0c835f928c5ed565dc3ed1a355ac1b41e5" .
+_:genid55 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:OIacfJKG2180 .
+_:genid54 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid55 .
+_:OIacfJKG2180 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:OIacfJKG2180 <http://xmlns.com/foaf/0.1/name> "Yuhsin Chen" .
+_:genid56 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:OIacfJKG2182 .
+_:genid55 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid56 .
+_:OIacfJKG2182 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:OIacfJKG2182 <http://xmlns.com/foaf/0.1/name> "Lydia Chilton" .
+_:genid57 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:OIacfJKG2184 .
+_:genid56 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid57 .
+_:OIacfJKG2184 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:OIacfJKG2184 <http://xmlns.com/foaf/0.1/name> "Ruth Dhanaraj" .
+_:genid58 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:OIacfJKG2186 .
+_:genid57 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid58 .
+_:OIacfJKG2186 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:OIacfJKG2186 <http://xmlns.com/foaf/0.1/name> "James Hollenbach" .
+_:genid59 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:OIacfJKG2188 .
+_:genid58 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid59 .
+_:OIacfJKG2188 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:OIacfJKG2188 <http://xmlns.com/foaf/0.1/name> "Adam Lerer" .
+_:genid60 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:OIacfJKG2190 .
+_:genid59 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid60 .
+_:OIacfJKG2190 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:OIacfJKG2190 <http://xmlns.com/foaf/0.1/name> "David Sheets" .
+_:genid60 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_20061106-964> <http://www.w3.org/2004/08/Presentations.owl#presenters> _:genid53 .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_20061106-964> <http://purl.org/dc/elements/1.1/date> "2006-11-06" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_20061106-964> <http://purl.org/dc/elements/1.1/title> "Tabulator: Exploring and Analyzing linked data on the Semantic Web" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_20061106-964> <http://purl.org/dc/elements/1.1/identifier> <http://swui.semanticweb.org/swui06/papers/Berners-Lee/Berners-Lee.pdf> .
+_:genid61 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "USA" .
+_:genid61 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Athens, GA" .
+_:genid61 <http://www.w3.org/2002/12/cal/ical#description> "The 3rd International Semantic Web User Interaction Workshop" .
+_:genid61 <http://www.w3.org/2002/12/cal/ical#url> <http://swui.semanticweb.org/swui06/> .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_20061106-964> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid61 .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-09-29-74WERT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid62 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid62 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid62 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid62 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-09-29-74WERT> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid62 .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-09-29-74WERT> <http://www.w3.org/2004/08/Presentations.owl#type> "keynote" .
+_:genid63 <http://www.w3.org/2001/04/roadmap/org#name> "Semantic Web" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-09-29-74WERT> <http://www.w3.org/2004/08/Presentations.owl#w3cActivity> _:genid63 .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-09-29-74WERT> <http://purl.org/dc/elements/1.1/date> "2004-09-29" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-09-29-74WERT> <http://purl.org/dc/elements/1.1/title> "The Semantic Web" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-09-29-74WERT> <http://purl.org/dc/elements/1.1/identifier> <http://www.w3.org/2004/Talks/0929-emerge-tbl/> .
+_:genid64 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "USA" .
+_:genid64 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Cambridge, MA" .
+_:genid64 <http://www.w3.org/2002/12/cal/ical#description> "MIT Technology Review Emerging Technologies conference" .
+_:genid64 <http://www.w3.org/2002/12/cal/ical#url> <http://mitworld.mit.edu/series/65/> .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-09-29-74WERT> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid64 .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-06-11-791> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid65 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid65 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid65 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid65 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-06-11-791> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid65 .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-06-11-791> <http://www.w3.org/2004/08/Presentations.owl#type> "keynote" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-06-11-791> <http://purl.org/dc/elements/1.1/date> "2008-06-11" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-06-11-791> <http://purl.org/dc/elements/1.1/title> "The Future of the World Wide Web" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-06-11-791> <http://purl.org/dc/elements/1.1/created> "2008-06-05T08:10:00Z" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-06-11-791> <http://www.w3.org/2000/01/rdf-schema#comment> "\n    The webcast for the panel discussion will be at: http://mediasite.itops.rpi.edu/Mediasite4/Viewer/Viewers/Viewer320TL508.aspx?mode=Default&peid=f63d1d69-6159-4cca-add3-eb2b2749eca6&pid=97228a9a-4bc4-4086-bdfe-7963bc457ac4&playerType=SL1\n  " .
+_:genid66 <http://www.w3.org/2002/12/cal/ical#organizer> "Tetherless World Research Constellation/" .
+_:genid66 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "USA" .
+_:genid66 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Rensselaer Polytechnic Institute, Troy, NY" .
+_:genid66 <http://www.w3.org/2002/12/cal/ical#description> "Washington, Wikipedia, and Web 3.0: What is the Future of the Web?" .
+_:genid66 <http://www.w3.org/2002/12/cal/ical#url> <http://www.rpi.edu/news/events/tw/index.html> .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-06-11-791> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid66 .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-02-04-664> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+<http://www.ted.com/index.php/talks/tim_berners_lee_on_the_next_web.html> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-02-04-664> <http://purl.org/dc/terms/hasFormat> <http://www.ted.com/index.php/talks/tim_berners_lee_on_the_next_web.html> .
+_:genid67 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid67 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid67 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid67 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-02-04-664> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid67 .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-02-04-664> <http://www.w3.org/2004/08/Presentations.owl#type> "talk" .
+_:genid68 <http://www.w3.org/2001/04/roadmap/org#name> "Semantic Web Activity" .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-02-04-664> <http://www.w3.org/2004/08/Presentations.owl#w3cActivity> _:genid68 .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-02-04-664> <http://purl.org/dc/elements/1.1/date> "2009-02-04" .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-02-04-664> <http://purl.org/dc/elements/1.1/title> "Linked Data" .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-02-04-664> <http://purl.org/dc/elements/1.1/created> "2009-02-05T09:05:00Z" .
+_:genid69 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "USA" .
+_:genid69 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Long Beach, California" .
+_:genid69 <http://www.w3.org/2002/12/cal/ical#description> "TED2009 \u201CThe Great Unveiling\u201D" .
+_:genid69 <http://www.w3.org/2002/12/cal/ical#url> <http://conferences.ted.com/TED2009/> .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-02-04-664> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid69 .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-02-04-664> <http://purl.org/dc/elements/1.1/identifier> <http://www.w3.org/2009/Talks/0204-ted-tbl/> .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-07-29-894> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid70 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid70 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid70 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid70 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-07-29-894> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid70 .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-07-29-894> <http://www.w3.org/2004/08/Presentations.owl#type> "tutorial" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-07-29-894> <http://purl.org/dc/elements/1.1/date> "2008-07-29" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-07-29-894> <http://purl.org/dc/elements/1.1/title> "The Future of the Web" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-07-29-894> <http://purl.org/dc/elements/1.1/created> "2008-08-07T08:58:00Z" .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-07-29-894> <http://www.w3.org/2000/01/rdf-schema#comment> "\n    no slides\n  " .
+_:genid71 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "Spain" .
+_:genid71 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Valencia " .
+_:genid71 <http://www.w3.org/2002/12/cal/ical#description> "Campus Party 2008" .
+_:genid71 <http://www.w3.org/2002/12/cal/ical#url> <http://www.campus-party.es/> .
+<http://www.w3.org/2004/08/TalkFiles/2008/Talks.rdf#X_2008-07-29-894> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid71 .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-01-20-249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid72 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid72 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid72 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid72 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-01-20-249> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid72 .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-01-20-249> <http://www.w3.org/2004/08/Presentations.owl#type> "talk" .
+_:genid73 <http://www.w3.org/2001/04/roadmap/org#name> "Semantic Web Activity" .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-01-20-249> <http://www.w3.org/2004/08/Presentations.owl#w3cActivity> _:genid73 .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-01-20-249> <http://purl.org/dc/elements/1.1/date> "2009-01-20" .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-01-20-249> <http://purl.org/dc/elements/1.1/title> "Semantic Web and Linked Data" .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-01-20-249> <http://purl.org/dc/elements/1.1/created> "2009-01-20T07:26:00Z" .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-01-20-249> <http://www.w3.org/2000/01/rdf-schema#comment> "\n    a video might be put online later\n  " .
+_:genid74 <http://www.w3.org/2002/12/cal/ical#organizer> "Futura Interacitve" .
+_:genid74 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "Brazil" .
+_:genid74 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Sao Paolo" .
+_:genid74 <http://www.w3.org/2002/12/cal/ical#description> "Campus Party Brazil" .
+_:genid74 <http://www.w3.org/2002/12/cal/ical#url> <http://www.campus-party.com.br/> .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-01-20-249> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid74 .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-01-20-249> <http://purl.org/dc/elements/1.1/identifier> <http://www.w3.org/2009/Talks/0120-campus-party-tbl/#(1)> .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-02-04-664-csals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid75 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid75 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid75 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid75 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-02-04-664-csals> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid75 .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-02-04-664-csals> <http://www.w3.org/2004/08/Presentations.owl#type> "keynote" .
+_:genid76 <http://www.w3.org/2001/04/roadmap/org#name> "Semantic Web Activity" .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-02-04-664-csals> <http://www.w3.org/2004/08/Presentations.owl#w3cActivity> _:genid76 .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-02-04-664-csals> <http://purl.org/dc/elements/1.1/date> "2009-02-26" .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-02-04-664-csals> <http://purl.org/dc/elements/1.1/title> "Linked Data and Healthcare and Life Sciences" .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-02-04-664-csals> <http://purl.org/dc/elements/1.1/created> "2009-02-26T09:05:00Z" .
+_:genid77 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "USA" .
+_:genid77 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Cambridge, MA" .
+_:genid77 <http://www.w3.org/2002/12/cal/ical#description> "Conference on Semantics in Healthcare and Life Sciences (C-SHALS)" .
+_:genid77 <http://www.w3.org/2002/12/cal/ical#url> <http://www.iscb.org/cms_addon/conferences/cshals2009> .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-02-04-664-csals> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid77 .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-02-04-664-csals> <http://purl.org/dc/elements/1.1/identifier> <http://www.w3.org//2009/Talks/0226-cshals-tbl/> .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_20060328-316> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid78 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid78 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid78 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid78 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_20060328-316> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid78 .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_20060328-316> <http://www.w3.org/2004/08/Presentations.owl#type> "lecture" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_20060328-316> <http://purl.org/dc/elements/1.1/date> "2006-03-28" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_20060328-316> <http://purl.org/dc/elements/1.1/title> "Web Design and Web Use: Hopes and Fears" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_20060328-316> <http://purl.org/dc/elements/1.1/identifier> <http://www.w3.org/2006/Talks/0328-tufts-tbl/Overview.html> .
+_:genid79 <http://www.w3.org/2002/12/cal/ical#organizer> "Tuft's University" .
+_:genid79 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "USA" .
+_:genid79 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Medford, MA " .
+_:genid79 <http://www.w3.org/2002/12/cal/ical#description> "Richard Synder Presidential Lecture" .
+<http://www.w3.org/2004/08/TalkFiles/2006/Talks.rdf#X_20060328-316> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid79 .
+<http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#lodSW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+<http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#lodSW> <http://www.w3.org/2004/08/Presentations.owl#type> "talk" .
+_:genid80 <http://www.w3.org/2001/04/roadmap/org#name> "Semantic Web Activity" .
+<http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#lodSW> <http://www.w3.org/2004/08/Presentations.owl#w3cActivity> _:genid80 .
+_:genid81 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:OIacfJKG3036 .
+_:OIacfJKG3036 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:OIacfJKG3036 <http://xmlns.com/foaf/0.1/name> "Chris Bizer" .
+_:genid82 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:OIacfJKG3038 .
+_:genid81 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid82 .
+_:OIacfJKG3038 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:OIacfJKG3038 <http://xmlns.com/foaf/0.1/name> "Tom Heath" .
+_:genid83 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:OIacfJKG3040 .
+_:genid82 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid83 .
+_:OIacfJKG3040 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:OIacfJKG3040 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:OIacfJKG3040 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:OIacfJKG3040 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+_:genid83 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+<http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#lodSW> <http://www.w3.org/2004/08/Presentations.owl#presenters> _:genid81 .
+<http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#lodSW> <http://purl.org/dc/elements/1.1/date> "2008-04-23" .
+<http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#lodSW> <http://purl.org/dc/elements/1.1/title> "Linking Open Data" .
+<http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#lodSW> <http://purl.org/dc/elements/1.1/identifier> <http://www.w3.org/2008/Talks/WWW2008-W3CTrack-LOD.pdf> .
+<http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#track> <http://www.w3.org/2001/vcard-rdf/3.0#Country> "China" .
+<http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#track> <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Beijing" .
+<http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#track> <http://www.w3.org/2002/12/cal/ical#description> "W3C Track, The 17th International World Wide Web Conference (WWW2008)" .
+<http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#track> <http://www.w3.org/2002/12/cal/ical#url> <http://www.w3.org/2008/04/w3c-track.html> .
+<http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#lodSW> <http://www.w3.org/2004/08/Presentations.owl#event> <http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#track> .
+<http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#lodSW> <http://purl.org/dc/elements/1.1/created> "2008-03-05T10:30:00Z" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-11-15-344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid84 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid84 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid84 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid84 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-11-15-344> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid84 .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-11-15-344> <http://www.w3.org/2004/08/Presentations.owl#type> "keynote" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-11-15-344> <http://purl.org/dc/elements/1.1/date> "2004-11-15" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-11-15-344> <http://purl.org/dc/elements/1.1/title> "Managing and Enhancing Information: Cultures and Conflicts" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-11-15-344> <http://purl.org/dc/elements/1.1/identifier> <http://www.w3.org/2004/Talks/1115-asis-tbl/slide1-0.html> .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-11-15-344> <http://www.w3.org/2000/01/rdf-schema#comment> "===== This entry has not been checked by the comm team yet ====" .
+_:genid85 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "USA" .
+_:genid85 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Providence, RI" .
+_:genid85 <http://www.w3.org/2002/12/cal/ical#description> "American Society for Information Science and Technology (ASIST) conference" .
+_:genid85 <http://www.w3.org/2002/12/cal/ical#url> <http://www.asis.org/Conferences/AM04/> .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-11-15-344> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid85 .
+<http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#X_2008-04-24-XYZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid86 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid86 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid86 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid86 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#X_2008-04-24-XYZ> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid86 .
+<http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#X_2008-04-24-XYZ> <http://www.w3.org/2004/08/Presentations.owl#type> "keynote" .
+<http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#X_2008-04-24-XYZ> <http://purl.org/dc/elements/1.1/date> "2008-04-24" .
+<http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#X_2008-04-24-XYZ> <http://purl.org/dc/elements/1.1/title> "The Future of Web Applications" .
+<http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#X_2008-04-24-XYZ> <http://purl.org/dc/elements/1.1/created> "2008-03-28T02:38:00Z" .
+<http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#X_2008-04-24-XYZ> <http://purl.org/dc/terms/abstract> "\n\t\tWeb applications currently provide greater flexibility and more  \neffective human interface than static Web pages. As client-side  \nstorage is added, Web applications and desktop applications become  \ncloser, although significant differences remain. The open standards  \n(HTML, SVG, CSS, etc.) vie with proprietary systems (Air, Silverlight,  \netc.) for the presentation side. RDF, XML, JSON , SPARQL and SQL  \ncompete as data access techniques. There is a blossoming of code and  \nwidget libraries. On social networking sites, application portability  \nand data portability are concerns of the day, for developers and  \nusers. We must ask ourselves in the long term, how we would like the  \nWeb application platform to evolve, and what facilities would be  \nuseful in the future.\n\t  "^^<http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral> .
+<http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#www2008> <http://www.w3.org/2001/vcard-rdf/3.0#Country> "China" .
+<http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#www2008> <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Beijing" .
+<http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#www2008> <http://www.w3.org/2002/12/cal/ical#description> "The 17th International World Wide Web Conference (WWW2008)" .
+<http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#www2008> <http://www.w3.org/2002/12/cal/ical#url> <http://www2008.org> .
+<http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#X_2008-04-24-XYZ> <http://www.w3.org/2004/08/Presentations.owl#event> <http://www.w3.org/2004/08/TalkFiles/2008/WWW2008.rdf#www2008> .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_2005-05-11-716> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid87 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid87 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid87 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid87 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_2005-05-11-716> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid87 .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_2005-05-11-716> <http://www.w3.org/2004/08/Presentations.owl#type> "keynote" .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_2005-05-11-716> <http://purl.org/dc/elements/1.1/date> "2005-05-11" .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_2005-05-11-716> <http://purl.org/dc/elements/1.1/title> "WWW at 15 years: looking forward" .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_2005-05-11-716> <http://purl.org/dc/elements/1.1/identifier> <http://www.w3.org/2005/Talks/0511-keynote-tbl/> .
+_:genid88 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "Japan" .
+_:genid88 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Chiba" .
+_:genid88 <http://www.w3.org/2002/12/cal/ical#description> "The 14th International World Wide Web Conference (WWW2005)" .
+_:genid88 <http://www.w3.org/2002/12/cal/ical#url> <http://www2005.org> .
+<http://www.w3.org/2004/08/TalkFiles/2005/Talks.rdf#X_2005-05-11-716> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid88 .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-10-21-25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid89 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid89 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid89 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid89 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-10-21-25> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid89 .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-10-21-25> <http://www.w3.org/2004/08/Presentations.owl#type> "lunchtime talk" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-10-21-25> <http://purl.org/dc/elements/1.1/date> "2004-10-21" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-10-21-25> <http://purl.org/dc/elements/1.1/title> "lunchtime talk" .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-10-21-25> <http://www.w3.org/2000/01/rdf-schema#comment> "===== This entry has not been checked by the comm team yet ====" .
+_:genid90 <http://www.w3.org/2002/12/cal/ical#organizer> "British American Business Council of New England" .
+_:genid90 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "USA" .
+_:genid90 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Boston, MA" .
+_:genid90 <http://www.w3.org/2002/12/cal/ical#url> <https://www.babc.org/> .
+<http://www.w3.org/2004/08/TalkFiles/2004/Talks.rdf#X_2004-10-21-25> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid90 .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-03-13-776> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/08/Presentations.owl#Talk> .
+_:genid91 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:genid91 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/People/Berners-Lee> .
+_:genid91 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "965c47c5a70db7407210cef6e4e6f5374a525c5c" .
+_:genid91 <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-03-13-776> <http://www.w3.org/2004/08/Presentations.owl#presenter> _:genid91 .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-03-13-776> <http://www.w3.org/2004/08/Presentations.owl#type> "talk" .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-03-13-776> <http://purl.org/dc/elements/1.1/date> "2009-03-13" .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-03-13-776> <http://purl.org/dc/elements/1.1/title> "The History of the Web and the Future of the Web" .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-03-13-776> <http://purl.org/dc/elements/1.1/created> "2009-03-13T08:49:00Z" .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-03-13-776> <http://www.w3.org/2000/01/rdf-schema#comment> "\n    web cast at: http://webcast.cern.ch/\n  " .
+_:genid92 <http://www.w3.org/2002/12/cal/ical#organizer> "CERN" .
+_:genid92 <http://www.w3.org/2001/vcard-rdf/3.0#Country> "Switzerland" .
+_:genid92 <http://www.w3.org/2001/vcard-rdf/3.0#Locality> "Geneva" .
+_:genid92 <http://www.w3.org/2002/12/cal/ical#description> "World Wide Web @20" .
+_:genid92 <http://www.w3.org/2002/12/cal/ical#url> <http://info.cern.ch/www20/> .
+<http://www.w3.org/2004/08/TalkFiles/2009/Talks.rdf#X_2009-03-13-776> <http://www.w3.org/2004/08/Presentations.owl#event> _:genid92 .
+_:genid93 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2007/11/Talks/search/OIacfJKG2184> .
+_:genid94 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2007/11/Talks/search/OIacfJKG2186> .
+_:genid93 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid94 .
+_:genid95 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2007/11/Talks/search/OIacfJKG2188> .
+_:genid94 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid95 .
+_:genid96 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2007/11/Talks/search/OIacfJKG2190> .
+_:genid95 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid96 .
+_:genid96 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:OIacfJKG2183 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid93 .
+_:OIacfJKG2183 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:OIacfJKG2182 .
+_:OIacfJKG2181 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:OIacfJKG2183 .
+_:OIacfJKG2181 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:OIacfJKG2180 .
+_:genid97 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2007/11/Talks/search/OIacfJKG2190> .
+_:genid97 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:OIacfJKG2189 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid97 .
+_:OIacfJKG2189 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:OIacfJKG2188 .
+_:OIacfJKG2187 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:OIacfJKG2189 .
+_:OIacfJKG2187 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:OIacfJKG2186 .
+_:genid98 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://www.w3.org/2007/11/Talks/search/OIacfJKG3040> .
+_:genid98 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:OIacfJKG3039 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:genid98 .
+_:OIacfJKG3039 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:OIacfJKG3038 .
+_:OIacfJKG2179 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:OIacfJKG2181 .
+_:OIacfJKG2179 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:OIacfJKG2178 .

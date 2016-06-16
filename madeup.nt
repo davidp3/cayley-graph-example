@@ -1,0 +1,137 @@
+"Handyman"	"__language"	"english" .
+"Handyman"	"__language"	"C/C++" .
+"Handyman"	"__language"	"Rust" .
+"Handyman"	"__language"	"JS" .
+"Handyman"	"__language"	"Java" .
+"Handyman"	"__language"	"Objective-C" .
+"Handyman"	"__language"	"Ocaml/Reason" .
+"Handyman"	"__language"	"Scala" .
+"Handyman"	"__language"	"ASP/C+" .
+"Mike"	"__language"	"english" .
+"Peter"	"__language"	"english" .
+"Rez"	"__language"	"english" .
+"Bernie"	"__language"	"english" .
+"Gloria"	"__language"	"english" .
+"Cherisse"	"__language"	"english" .
+"Brenda"	"__language"	"english" .
+"Viktoria"	"__language"	"english" .
+"Viktoria"	"__language"	"bulgarian" .
+"Sara"	"__language"	"english" .
+"Sara"	"__language"	"french" .
+"Sara"	"__language"	"arabic" .
+"Jason"	"__language"	"english" .
+"Mike"	"__favorite cereal"	"Chex" .
+"Peter"	"__favorite cereal"	"Corn Pops" .
+"Rez"	"__favorite cereal"	"Granola" .
+"Bernie"	"__favorite cereal"	"Cream Of Wheat" .
+"Gloria"	"__favorite cereal"	"Muselix" .
+"Cherisse"	"__favorite cereal"	"Fruity Pebbles" .
+"Brenda"	"__favorite cereal"	"Corn Flakes" .
+"Viktoria"	"__favorite cereal"	"Froot Loops" .
+"Sara"	"__favorite cereal"	"Cap'n Crunch" .
+"Jason"	"__favorite cereal"	"Cap'n Crunch With Crunchberries" .
+"Mike"	"__drives"	"Jalopy" .
+"Peter"	"__drives"	"Ford F150" .
+"Rez"	"__drives"	"Chevy Malibu" .
+"Bernie"	"__drives"	"Toyota Tercel" .
+"Gloria"	"__drives"	"Jaguar X150" .
+"Cherisse"	"__drives"	"Skateboard" .
+"Brenda"	"__drives"	"Hoverboard" .
+"Viktoria"	"__drives"	"Moped" .
+"Sara"	"__drives"	"Jetpack" .
+"Jason"	"__drives"	"Unicycle" .
+"Mike"	"__accent"	"Canadian" .
+"Peter"	"__children"	"many" .
+"Rez"	"__hair color"	"all" .
+"Bernie"	"__bicep"	"37 in" .
+"Gloria"	"__profession"	"artist" .
+"Cherisse"	"__weakness"	"rom coms" .
+"Brenda"	"__nickname"	"Bunny" .
+"Viktoria"	"__calling"	"song" .
+"Sara"	"__food"	"harissa" .
+"Jason"	"__status"	"awol" .
+"Mike"	"music"	"Primus" .
+"Peter"	"music"	"Smart E's" .
+"Rez"	"music"	"Nine Inch Nails" .
+"Bernie"	"music"	"Guns And Roses" .
+"Gloria"	"music"	"Kenny G" .
+"Gloria"	"music"	"Goldie" .
+"Cherisse"	"music"	"Beyonce" .
+"Cherisse"	"music"	"Jay-Z" .
+"Brenda"	"music"	"Tina Turner" .
+"Brenda"	"music"	"The Pointer Sisters" .
+"Viktoria"	"music"	"Amy Winehouse" .
+"Sara"	"music"	"The Dave Matthews Band" .
+"Jason"	"music"	"The Beastie Boys" .
+"Mike"	"music"	"Smart E's" .
+"Mike"	"music"	"Nine Inch Nails" .
+"Mike"	"music"	"Guns And Roses" .
+"Bernie"	"music"	"Kenny G" .
+"Bernie"	"music"	"Goldie" .
+"Bernie"	"music"	"Beyonce" .
+"Bernie"	"music"	"Jay-Z" .
+"Cherisse"	"music"	"Tina Turner" .
+"Cherisse"	"music"	"Amy Winehouse" .
+"Cherisse"	"music"	"The Dave Matthews Band" .
+"Cherisse"	"music"	"The Beastie Boys" .
+"Mike"	"film"	"Strange Brew" .
+"Peter"	"film"	"The Avengers" .
+"Rez"	"film"	"The Simpson's Movie" .
+"Bernie"	"film"	"Platoon" .
+"Gloria"	"film"	"The Fast And The Furious" .
+"Cherisse"	"film"	"The Apprentice" .
+"Brenda"	"film"	"Lace" .
+"Viktoria"	"film"	"50 First Dates" .
+"Sara"	"film"	"Hackers" .
+"Jason"	"film"	"Soul Man" .
+"Jason"	"film"	"Strange Brew" .
+"Jason"	"film"	"The Avengers" .
+"Jason"	"film"	"The Simpson's Movie" .
+"Jason"	"film"	"50 First Dates" .
+"Jason"	"film"	"Hackers" .
+"Handyman"	"__favorite cereal"	"Cocoa Krispies" .
+"Handyman"	"__drives"	"Yamaha F1" .
+"Handyman"	"__expertise"	"Computer Graphics" .
+"Handyman"	"__expertise"	"Formal Logic" .
+"Handyman"	"__expertise"	"Numerical Differential Equations" .
+"Handyman"	"__expertise"	"Baking" .
+"Handyman"	"__expertise"	"Volcanoes" .
+"Handyman"	"coworker"	"Mike" .
+"Mike"	"coworker"	"Handyman" .
+"Handyman"	"coworker"	"Peter" .
+"Peter"	"coworker"	"Handyman" .
+"Handyman"	"coworker"	"Rez" .
+"Rez"	"coworker"	"Handyman" .
+"Handyman"	"coworker"	"Bernie" .
+"Bernie"	"coworker"	"Handyman" .
+"Bernie"	"coworker"	"Peter" .
+"Peter"	"coworker"	"Bernie" .
+"Bernie"	"coworker"	"Rez" .
+"Rez"	"coworker"	"Bernie" .
+"Peter"	"coworker"	"Rez" .
+"Rez"	"coworker"	"Peter" .
+"Gloria"	"sister"	"Cherisse" .
+"Gloria"	"daughter"	"Brenda" .
+"Cherisse"	"daughter"	"Brenda" .
+"Handyman"	"sister"	"Gloria" .
+"Handyman"	"sister"	"Cherisse" .
+"Handyman"	"mother"	"Brenda" .
+"Gloria"	"brother"	"Handyman" .
+"Cherisse"	"brother"	"Handyman" .
+"Brenda"	"son"	"Handyman" .
+"Handyman"	"friend"	"Viktoria" .
+"Viktoria"	"friend"	"Handyman" .
+"Handyman"	"friend"	"Sara" .
+"Sara"	"friend"	"Handyman" .
+"Handyman"	"friend"	"Jason" .
+"Jason"	"friend"	"Handyman" .
+"Handyman"	"music"	"Amon Tobin" .
+"Handyman"	"music"	"Amy Winehouse" .
+"Handyman"	"music"	"Angelo Badlamenti" .
+"Handyman"	"music"	"MF Doom" .
+"Handyman"	"film"	"Blue Velvet" .
+"Handyman"	"film"	"Fight Club" .
+"Handyman"	"film"	"Married With Children" .
+"Handyman"	"film"	"Futurama" .
+"Handyman"	"film"	"Batman The Animated Series" .
+"Handyman"	"film"	"Svetlana" .
